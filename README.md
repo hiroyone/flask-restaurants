@@ -1,4 +1,5 @@
-fullstack-nanodegree-vm
-=============
-
-Common code for the Relational Databases and Full Stack Fundamentals courses
+# Restaurant Menu App
+- Flask: CRUD, ORM, Webserver
+- JSON API
+- Docker
+- SSO
